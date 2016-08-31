@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+  <Ad>
+    <imageurl>image\1.jpg</imageurl>
+    <navigateurl>http:\\www.google.com</navigateurl>
+    <alternatetext>Manav</alternatetext>
+    <impression>100</impression>
+  </Ad>
+
+  <Ad>
+    <imageurl>~\image\2.jpg</imageurl>
+    <navigateurl>http:\\www.google.com</navigateurl>
+    <alternatetext>Manav</alternatetext>
+    <impression>100</impression>
+  </Ad>
+
+  <Ad>
+    <imageurl>~\image\3.jpg</imageurl>
+    <navigateurl>http:\\www.google.com</navigateurl>
+    <alternatetext>Manav</alternatetext>
+    <impression>100</impression>
+  </Ad>
+
+  <Ad>
+    <imageurl>~\image\4.jpg</imageurl>
+    <navigateurl>http:\\www.google.com</navigateurl>
+    <alternatetext>Manav</alternatetext>
+    <impression>100</impression>
+  </Ad>
+
+  <Ad>
+    <imageurl>~\image\5.jpg</imageurl>
+    <navigateurl>http:\\www.google.com</navigateurl>
+    <alternatetext>Manav</alternatetext>
+    <impression>100</impression>
+  </Ad>
+
+</Advertisements>
